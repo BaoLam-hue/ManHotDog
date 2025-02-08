@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManHotDog
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C#  
-- 💞️ I’m looking to collaborate on the hell does this even work. 
+- 💞️ I’m looking to collaborate on whatever project you throw at me. 
 - 📫 How to reach me: caoluongbaol@gmail.com
 
 <!---
