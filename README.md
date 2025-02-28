@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManHotDog
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C#  
+- 🌱 I’m currently learning front-end development.  
 - 💞️ I’m looking to collaborate on whatever project you throw at me. 
 - 📫 How to reach me: caoluongbaol@gmail.com
 
